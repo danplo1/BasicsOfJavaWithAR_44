@@ -1,4 +1,4 @@
-package com.static_final_32;
+package com.Static_final_32;
 
 /**
  * Created by Daniel_D'AGE on 15.11.2018.
