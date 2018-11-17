@@ -25,11 +25,11 @@ public class Factory {
     public Cars giveCar(String mark) {
         Cars car;
 
-        if (mark.equals("Volvo")) {
+        if (mark.equalsIgnoreCase("Volvo")) {
             car = new Volvo();
-        } else if (mark.equals("Renault")) {
+        } else if (mark.equalsIgnoreCase("Renault")) {
             car = new Renault();
-        } else if (mark.equals("Saab")) {
+        } else if (mark.equalsIgnoreCase("Saab")) {
             car = new Saab();
         } else {
             car = new Cars();

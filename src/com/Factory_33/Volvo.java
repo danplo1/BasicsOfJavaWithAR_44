@@ -5,7 +5,9 @@ package com.Factory_33;
  */
 public class Volvo extends Cars {
 
+
     private String mark = "VOLVO";
+
 
     public String getMark() {
         return mark;
