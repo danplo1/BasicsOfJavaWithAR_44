@@ -59,7 +59,6 @@ public class Bankomat {
             case 3:
                 bankomat.loanOfMoney(200);
 
-
             case 4:
                 bankomat.end();
                 break;
@@ -95,9 +94,9 @@ public class Bankomat {
         System.out.println(lend + " Aż tyle?!! A da radę cos więcej? ");
         Scanner scanner1 = new Scanner(System.in);
         lend1 = scanner1.nextInt();
-        if (lend1>lend) {
+        if (lend1 > lend) {
             System.out.println("Dzięki nasz wielki sponsorze!!");
-        }else{
+        } else {
             System.out.println("Szkoda, bierzemy co dajesz! Nara!");
 
         }
