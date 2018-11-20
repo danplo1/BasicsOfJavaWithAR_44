@@ -1,4 +1,4 @@
-package com.Network_36;
+package com.network_36;
 
 import java.net.URL;
 

@@ -1,6 +1,6 @@
-package com.Facade_34;
+package com.facade_34;
 
-import FacadeInterfaces_34.BankomatFacadeInterfaces;
+import facadeInterfaces_34.BankomatFacadeInterfaces;
 
 /**
  * Created by Daniel_D'AGE on 17.11.2018.

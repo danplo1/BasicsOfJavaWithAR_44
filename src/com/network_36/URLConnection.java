@@ -1,4 +1,4 @@
-package com.Network_36;
+package com.Network_36_37;
 
 import java.net.URL;
 import java.util.Date;
@@ -29,7 +29,7 @@ public class URLConnection {
         System.out.println(new Date(date));
         System.out.println(" ");
 
-        int a = urlConnection.getContentLength(); // długośc zawartości
+        int a = urlConnection.getContentLength(); // długość zawartości
         System.out.println(a);
 
 

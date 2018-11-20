@@ -1,4 +1,4 @@
-package FacadeInterfaces_34;
+package facadeInterfaces_34;
 
 /**
  * Created by Daniel_D'AGE on 17.11.2018.

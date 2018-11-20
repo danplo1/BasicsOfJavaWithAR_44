@@ -1,4 +1,4 @@
-package com.Factory_33;
+package com.factory_33;
 
 /**
  * Created by Daniel_D'AGE on 16.11.2018.

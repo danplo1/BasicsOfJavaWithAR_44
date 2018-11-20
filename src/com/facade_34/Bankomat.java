@@ -1,4 +1,4 @@
-package com.Facade_34;
+package com.facade_34;
 
 import java.util.Scanner;
 
