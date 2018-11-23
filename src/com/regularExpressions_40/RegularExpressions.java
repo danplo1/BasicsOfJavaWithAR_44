@@ -37,6 +37,8 @@ public class RegularExpressions {
         // \\t - może byc tabulator
         // \\T - wszystko tylko nie tabulator
         // \\n - znak nowej linii
+        // * - opcja, znak może ale nie musi sie pojawić
+        // + - znak musi bezwzględnie wystapic
         // \. - dowolny znak
 
         // [a]{x} - x wystapień lietry a
